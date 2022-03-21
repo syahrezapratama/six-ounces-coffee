@@ -1,0 +1,93 @@
+#restoname{
+    font-family:'Fjalla One';
+    color:#385A52; 
+    padding-left:35px;
+    padding-right:30px;
+}
+
+.nav-link{
+    font-family:'Open Sans';
+    
+}
+
+#function{
+    padding-left:25px;
+    padding-right:25px;
+}
+
+.reservation-form{
+    border: 3px solid #385A52;
+    padding: 20px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Open Sans';
+}
+
+#new-reservation{
+    background-color: #385A52;
+    margin-left: 15%;
+    border: 0px;
+    font-family:'Open Sans';
+}
+
+#submit-reservation{
+    background-color: #385A52;
+    margin-top: 10px;
+    margin-right: 10px;
+    border: 2px solid #385A52;
+    float: right;
+}
+
+#tabel-reservation{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Open Sans';
+}
+
+#tabel-title{
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Open Sans';
+    color: #385A52;
+}
+
+img{
+    margin-left: 5px;
+    height: 20px;
+}
+
+#cancel-edit{
+    background-color: white;
+    color: #385A52;
+    margin-top: 10px;
+    border: 2px solid #385A52;
+    float: right;
+}
+
+#menu-kategorie{
+    margin-top: 15px;
+}
+
+#orderbox {
+    position: fixed;
+    right: 0;
+    height: 100%;
+    color: white;
+}
+
+#title_neworder {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#submit_order{
+    background-color: #385A52;
+    border: 0px;
+    font-family:'Open Sans';
+}
+
+#onProgress{
+    margin: auto;
+}
